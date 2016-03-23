@@ -1,7 +1,9 @@
-react-hot-boilerplate
+react-getting-started-with-redux
 =====================
 
-The minimal dev environment to enable live-editing React components.
+In reference to [Getting started with Redux](http://www.jchapron.com/2015/08/14/getting-started-with-redux/)
+
+Based on [The minimal dev environment to enable live-editing React components](https://github.com/gaearon/react-hot-boilerplate).
 
 ### Usage
 
@@ -11,7 +13,7 @@ npm start
 open http://localhost:3000
 ```
 
-Now edit `src/App.js`.  
+Now edit `src/App.js`.
 Your changes will appear without reloading the browser like in [this video](http://vimeo.com/100010922).
 
 ### Linting
